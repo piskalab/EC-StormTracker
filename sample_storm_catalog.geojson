@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "sample_storm_catalog",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "EarthCARE_Frame": "04023E", "Latitude": -8.258811, "Longitude": 15.728007, "Peak_Lightning_Count": 95, "Dataset": "LI" }, "geometry": { "type": "Point", "coordinates": [ 15.728007, -8.258811 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "EarthCARE_Frame": "03999H", "Latitude": -25.544843004779818, "Longitude": 25.940853128731185, "Peak_Lightning_Count": 4, "Dataset": "LI" }, "geometry": { "type": "Point", "coordinates": [ 25.940853128731185, -25.544843004779818 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "EarthCARE_Frame": "03999H", "Latitude": -25.407038696726318, "Longitude": 25.911326109209394, "Peak_Lightning_Count": 7, "Dataset": "LI" }, "geometry": { "type": "Point", "coordinates": [ 25.911326109209394, -25.407038696726318 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "EarthCARE_Frame": "03988A", "Latitude": -15.054621340879162, "Longitude": -58.555356922924517, "Peak_Lightning_Count": 6, "Dataset": "LI" }, "geometry": { "type": "Point", "coordinates": [ -58.555356922924517, -15.054621340879162 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "EarthCARE_Frame": "03988A", "Latitude": -14.896281139986584, "Longitude": -58.586334569713443, "Peak_Lightning_Count": 8, "Dataset": "LI" }, "geometry": { "type": "Point", "coordinates": [ -58.586334569713443, -14.896281139986584 ] } },
+{ "type": "Feature", "properties": { "ID": 6, "EarthCARE_Frame": "03988A", "Latitude": 2.2991421721809031, "Longitude": -61.83464292046358, "Peak_Lightning_Count": 6, "Dataset": "LI" }, "geometry": { "type": "Point", "coordinates": [ -61.83464292046358, 2.299142172180903 ] } }
+]
+}
